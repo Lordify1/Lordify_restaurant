@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lordify_restaurant/static/css/main.e6c13ad2.css",
+    "main.js": "/Lordify_restaurant/static/js/main.1520e0b8.js",
+    "index.html": "/Lordify_restaurant/index.html",
+    "main.e6c13ad2.css.map": "/Lordify_restaurant/static/css/main.e6c13ad2.css.map",
+    "main.1520e0b8.js.map": "/Lordify_restaurant/static/js/main.1520e0b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1520e0b8.js"
+  ]
+}

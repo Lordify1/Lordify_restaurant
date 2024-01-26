@@ -1,0 +1,9 @@
+.custom{
+	background-color: #BF0A30 !important;
+}
+.custom-font{
+	color:/*#E5000C*/ #BF0A30 !important;
+}
+   .board{
+        height:100px; line-height: 100px; box-shadow: 8px 8px 4px black; background-color: white; color:black; text-align:center;
+        }
