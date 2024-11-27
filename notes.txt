@@ -1,0 +1,48 @@
+<section className="row d-flex align-items-center justify-content-center" style={{height: "70vh"}}>
+                    <a className="col-lg-3 col-12 text-center animate__animated  animate__pulse animate__slower animate__infinite"
+                    data-bs-toggle="offcanvas"
+                    data-bs-target="#EducationOffCanvas"
+                    aria-controls="EducationOffCanvas"
+                    title="Education"
+                    ><i className=" tajSkillsIcon border border-2 p-3 rounded shadow-lg  bi bi-book fs-1" ></i></a>
+
+                    <a className="col-lg-3 col-12 text-center animate__animated  animate__pulse animate__slower animate__infinite"
+                    data-bs-toggle="offcanvas"
+                    data-bs-target="#ContactMeOffCanvas"
+                    aria-controls="ContactMeOffCanvas"
+                    title="Contact Me"
+                    ><i className=" tajSkillsIcon border border-2 p-3 rounded shadow-lg  bi bi-phone fs-1" ></i></a>
+
+                    <a className="col-lg-3 col-12 text-center animate__animated  animate__pulse animate__slower animate__infinite"
+                    data-bs-toggle="offcanvas"
+                    data-bs-target="#PricingOffCanvas"
+                    aria-controls="PricingOffCanvas"
+                    title="My Pricing"
+                    ><i className=" tajSkillsIcon border border-2 p-3 rounded shadow-lg bi bi-cash-stack fs-1"></i></a>
+                </section>
+
+
+
+                <section className="row d-flex align-items-center justify-content-center" style={{height: "70vh"}}>
+                    <a
+                    className="col-lg-3 col-12 text-center animate__animated  animate__pulse animate__slower animate__infinite"
+                    data-bs-toggle="offcanvas"
+                    data-bs-target="#ProjectsOffCanvas"
+                    aria-controls="ProjectsOffCanvas"
+                    title="Projects"
+                    ><i className=" tajSkillsIcon border border-2 p-3 rounded shadow-lg  bi bi-briefcase fs-1" ></i></a>
+
+                    <a className="col-lg-3 col-12 text-center animate__animated  animate__pulse animate__slower animate__infinite"
+                    data-bs-toggle="offcanvas"
+                    data-bs-target="#ExperiencesOffCanvas"
+                    aria-controls="ExperiencesOffCanvas"
+                    title="Experience"
+                    ><i className=" tajSkillsIcon border border-2 p-3 rounded shadow-lg  bi bi-clock-history fs-1" ></i></a>
+
+                    <a className="col-lg-3 col-12 text-center animate__animated  animate__pulse animate__slower animate__infinite"><i className=" tajSkillsIcon border border-2 p-3 rounded shadow-lg  bi bi-camera fs-1"
+                    data-bs-toggle="offcanvas"
+                    data-bs-target="#SkillsOffCanvas"
+                    aria-controls="SkillsOffCanvas"
+                    title="Skills"
+                    ></i></a>
+                </section>

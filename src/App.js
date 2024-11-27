@@ -1,11 +1,12 @@
 import { useState } from "react";
-import Categories from "./components/Categories";
+import Hero from "./components/Hero";
+
 
 const App = ()=> {
  
     return (
       <div>
-        <Categories/>
+        <Hero/>
       </div>
     )
 }
